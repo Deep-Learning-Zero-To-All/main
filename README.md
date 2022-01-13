@@ -18,3 +18,8 @@
   - 경선: Lab 01-1. Tensor manipulation 1 ~ Lab 01-2. Tensor manipulation 2
   - 해인: Lab 02. Linear regression ~ Lab 04-2. Loading data
   - 은희: Lab 05. Logistic regression
+
+- 날짜: 2022.1.20.목
+  - 경선: Lab 06. Softmax Classification
+  - 해인: Lab 07-1. Tips ~ Lab 07-2. MNIST Introduction
+  - 은희: Lab 05. Logistic regression
