@@ -23,3 +23,8 @@
   - 경선: Lab 06. Softmax Classification
   - 해인: Lab 07-1. Tips ~ Lab 07-2. MNIST Introduction
   - 은희: Lab 05. Logistic regression
+
+- 날짜: 2022.1.27.목
+  - 경선: Lab 08-1. Perceptron ~ Lab 08-2. Multi Layer Perception
+  - 은희: Lab 09-1. ReLu ~ Lab 09-2. Weight initialization
+  - 해인: Lab 09-3. Dropout ~ Lab 09-4. Batch Normalization
