@@ -28,3 +28,12 @@
   - 경선: Lab 08-1. Perceptron ~ Lab 08-2. Multi Layer Perception
   - 은희: Lab 09-1. ReLu ~ Lab 09-2. Weight initialization
   - 해인: Lab 09-3. Dropout ~ Lab 09-4. Batch Normalization
+
+- 날짜: 2022.2.10.목
+  - 해인: Lab 09-3. Dropout ~ Lab 09-4. Batch Normalization, RNN
+  - 경선: CNN
+
+- 날짜: 2022.2.17.목
+  - 은희: GAN 
+  - 공부 자료: [UC Berkeley의 CS182](https://cs182sp21.github.io/) 
+  - [강의 영상](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
