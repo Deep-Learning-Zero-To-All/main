@@ -34,4 +34,6 @@
   - 경선: CNN
 
 - 날짜: 2022.2.17.목
-  - 은희: GAN [UC Berkeley의 CS182](https://cs182sp21.github.io/) [강의 영상](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+  - 은희: GAN 
+  - 공부 자료: [UC Berkeley의 CS182](https://cs182sp21.github.io/) 
+  - [강의 영상](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
